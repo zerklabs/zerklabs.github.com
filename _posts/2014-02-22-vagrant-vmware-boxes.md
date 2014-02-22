@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Vagrant boxes for the Vagrant VMware plugin"
 description: ""
 category: vagrant
@@ -12,4 +12,4 @@ tags: [vmware, vagrant]
 
 ## [Redis-in-a-box](https://www.dropbox.com/s/38r4ygipagzwbjc/redis.box)
 ### Redis-in-a-box Vagrantfile
-<script src="https://gist.github.com/cabrel/9162551.js"></script>
+{% gist 9162551 %}
