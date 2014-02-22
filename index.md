@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Vagrant boxes for the Vagrant VMware plugin"
 description: ""
 category: vagrant
