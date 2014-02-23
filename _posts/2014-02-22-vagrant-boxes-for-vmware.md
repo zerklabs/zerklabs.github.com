@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Vagrant boxes for VMWare"
-description: ""
-category: vagrant
+category: [vagrant]
 tags: [vmware, vagrant, redis, elasticsearch]
 ---
 {% include JB/setup %}
@@ -12,5 +11,6 @@ tags: [vmware, vagrant, redis, elasticsearch]
 [based on Andrew Glover's elasticsearch-in-a-box](https://github.com/aglover/coffer)
 
 [Redis-in-a-box](https://www.dropbox.com/s/38r4ygipagzwbjc/redis.box)
+
 Redis-in-a-box Vagrantfile
 {% gist 9162551 %}
